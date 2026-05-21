@@ -1,5 +1,5 @@
 class News:
-
+    
     def __init__(self, tit, des, img):
 
         self.tit = tit
